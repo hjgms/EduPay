@@ -73,9 +73,3 @@ Exemplo:
 ```
 https://localhost:5001/swagger
 ```
-
----
-
-## ✔️ Pronto!
-
-Se quiser, posso gerar uma versão em inglês, adicionar exemplos de endpoints, ou explicar como funciona cada entidade.
